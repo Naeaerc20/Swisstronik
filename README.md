@@ -6,7 +6,6 @@ Requirements
 ```shell
 Node.js and npm
 Private Key for a test account on the Swisstronik network
-Installation
 ```
 
 Installation
